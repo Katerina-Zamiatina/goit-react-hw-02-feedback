@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.title {
+  margin-top: 30px;
+  color: #545454;
+}
